@@ -4,7 +4,7 @@ object Main {
     val two = 12 :: 15 :: 55667 :: "kjhg" :: Nil
     val L2  = List("one", "two", "15", "55667", "qwertyuiop")
     println(
-      "Hello world!", "\n",
+      "Hello world!", "\n\n",
       two, "\n",
       L2 )
 
