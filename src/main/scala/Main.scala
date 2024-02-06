@@ -7,5 +7,10 @@ object Main {
       "Hello world!", "\n",
       two, "\n",
       L2 )
+
+    println(
+      "How are you, world?", "\n",
+      two)
+
   }
 }
