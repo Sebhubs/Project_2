@@ -12,5 +12,8 @@ object Main {
       "How are you, world?", "\n",
       two)
 
+    println(
+      "I am fine bro!", "\n",
+      two)
   }
 }
